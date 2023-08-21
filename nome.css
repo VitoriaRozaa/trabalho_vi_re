@@ -1,0 +1,26 @@
+body
+{
+    background-color: rgba(157, 40, 253, 0.836);
+    box-sizing: border-box;
+}
+
+.rickandmorty
+    {
+        width: 800px;
+        position: absolute;
+        left: 30%;
+    }
+.texto
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    position: absolute;
+    top: 65%;
+    align-items: center;
+    left: 45%;
+}
+.resumo
+{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
